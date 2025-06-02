@@ -1,5 +1,4 @@
 # PRO-Credit-lending
-# **Credit Default Prediction ML**
 
 *A Machine Learning model to predict credit default risk using CatBoost*
 
