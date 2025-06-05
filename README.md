@@ -112,7 +112,7 @@ MIT License - See [LICENSE](LICENSE) (if applicable).
 
 ---
 
-**👤 Author:** [Naman Agrawal](https://github.com/Prime-Gamer)
+**👤 Author:** [Nishant Sharma](https://github.com/nishant-2411)
 **🔗 Repo:** [GitHub Link](https://github.com/nishant-2411/PRO-Credit-Prediction)
 
 ---
