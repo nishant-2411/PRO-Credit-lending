@@ -113,6 +113,6 @@ MIT License - See [LICENSE](LICENSE) (if applicable).
 ---
 
 **👤 Author:** [Naman Agrawal](https://github.com/Prime-Gamer)
-**🔗 Repo:** [GitHub Link](https://github.com/Prime-Gamer/Credit_Default_Prediction_ML)
+**🔗 Repo:** [GitHub Link](https://github.com/nishant-2411/PRO-Credit-Prediction)
 
 ---
